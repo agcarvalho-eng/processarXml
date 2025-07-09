@@ -1,0 +1,36 @@
+<DadosEmpresa>
+    <Produtos>
+        <Produto>
+            <id>1</id>
+            <nome>Notebook Gamer</nome>
+            <descricao>Processador i7, 16GB RAM, SSD 512GB</descricao>
+            <preco>5000.00</preco>
+            <categoria>Eletrônicos</categoria>
+            <estoque>10</estoque>
+        </Produto>
+        <Produto>
+            <id>2</id>
+            <nome>Monitor UltraWide</nome>
+            <descricao>34 polegadas, 144Hz, Curvo</descricao>
+            <preco>2500.00</preco>
+            <categoria>Eletrônicos</categoria>
+            <estoque>15</estoque>
+        </Produto>
+    </Produtos>
+    <Clientes>
+        <Cliente>
+            <id>101</id>
+            <nome>Ana Silva</nome>
+            <email>ana.silva@example.com</email>
+            <endereco>Rua das Flores, 123, Centro</endereco>
+            <telefone>+5511987654321</telefone>
+        </Cliente>
+        <Cliente>
+            <id>102</id>
+            <nome>Bruno Costa</nome>
+            <email>bruno.costa@example.com</email>
+            <endereco>Av. Paulista, 456, Bela Vista</endereco>
+            <telefone>+5521998765432</telefone>
+        </Cliente>
+    </Clientes>
+</DadosEmpresa>
