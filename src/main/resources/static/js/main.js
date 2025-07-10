@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 
-    // Auto-dismiss alerts after 5 seconds
+    // Desaparecer os alertas após 5 segundos
     const alerts = document.querySelectorAll('.alert');
     alerts.forEach(alert => {
         setTimeout(() => {
